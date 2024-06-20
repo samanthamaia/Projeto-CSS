@@ -1,0 +1,77 @@
+*{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.link-header{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    color:#17233D;
+    margin-right: 33px;
+    cursor: pointer;
+}
+
+.botao-sign{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color:#FFFFFF;
+    background: #4CB538;
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+
+.img-logo{
+   width: 566px;
+   height: 566px;
+   margin-left: 100px;
+   display: inline-block;
+}
+section{
+    display: inline-block;
+    margin-left: 86px;
+    
+}
+
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    width: 582px;
+    color:#161A49;
+}
+
+p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    width: 493px;
+    color:#4B505A;
+    margin-top: 32px;
+}
+
+.botao-more{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    width: 112px;
+    color:#FFFFFF;
+    background:#6FBF44;
+    border:none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 32px;
+}
